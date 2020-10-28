@@ -14,6 +14,6 @@ Este documento contiene los links a los archivos pertenecientes al desarrollo de
 
 ## Segundo Parcial
 - [Caso de Estudio Capitulo 5](https://docs.google.com/document/d/1FuGRj4Jptisr6Xw5eg0cRwyt8j94Lx24yPD2dfIqcT4/edit)          
-- [Caso de Estudio Capitulo 6 - Link Pendiente](#)          
+- [Caso de Estudio Capitulo 6](https://docs.google.com/document/d/10Fbo-vQk2PuI789NEmwj_59TIrowEBLTSTQD8BD_F9I/edit)          
 - [Caso de Estudio Capitulo 7](https://docs.google.com/document/d/1XHhPYihuaVpxMDoPc_lkh7Cuyx8FSinAJbVHK2MrlOE/edit)          
 - [Caso de Estudio Capitulo 8](https://docs.google.com/document/d/1fqRIM48q-Xk1TgZzBxwohY1utJF4uxlsdLBiv9kLivc/edit)
